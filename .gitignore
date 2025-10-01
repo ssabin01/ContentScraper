@@ -1,0 +1,13 @@
+# Python venv
+.venv/
+__pycache__/
+
+# Output
+out/
+*.md
+*.png
+data/
+assets/
+
+# OS cruft
+.DS_Store
